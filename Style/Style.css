@@ -1,0 +1,62 @@
+span {
+    font-style: italic;
+}
+
+header {
+    color: #8B4513;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F8F8F8;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F8F8F8;
+}
+
+
+#Myid {
+    font-style: italic;
+    text-align: left;
+}
+.myClass {
+    color :#8B0000;
+}
+
+h2 {
+    color: #8B4513;
+}
+
+.list-conteiner {
+    display: inline-block;
+    border-style:solid ;
+    border-width: 0.5px;
+    padding-right: 20px;
+
+}
+.list-conteiner>p {
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.img-conteiner {
+    float: right;
+}
+
+.img-conteiner1 {
+    float: left;
+}
+
+p {
+   margin-bottom: 40px; 
+}
+
+.form {
+    color: #191008;
+}
